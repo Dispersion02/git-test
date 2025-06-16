@@ -1,2 +1,0 @@
-first file for git
-added more content to file1 
